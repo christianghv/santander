@@ -13,8 +13,6 @@
 package com.bancosantander.likeu.model;
 
 import java.util.Objects;
-import java.util.Arrays;
-import java.io.IOException;
 /**
  * CardDetail
  */
